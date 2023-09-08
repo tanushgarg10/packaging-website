@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanush Packaging</title>
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic%7CMontserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7CMerriweather:300,300italic,400,400italic,700,700italic,900,900italic%7COpen+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic%7CPT+Serif:400,400italic,700,700italic%7CInconsolata:400,700"
+        media="all">
+
+    <link rel="stylesheet" href="website.css">
+
+</head>
+
+<body>
+    <div class="navbar-no-shadow-2 wf-section">
+        <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease"
+            role="banner" class="navbar-no-shadow-container-2 w-nav">
+            <div class="container-regular-2">
+                <div class="navbar-wrapper-1">
+                    <a href="#" class="navbar-brand winav-brand"><img src="/images/logo.jpeg" width="201"
+                            sizes="(max-width: 479px) 68vw, (max-width: 991px) 201px, 19vw" alt=""></a>
+                    <nav class="nav-menu-wrapper-1 w-nav-menu">
+                        <ul class="nav-menu-1 w-list-unstyled">
+                            <li><a href="#home" class="nav-link-1">Home</a></li>
+                            <li><a href="#About" class="nav-link-1">About</a></li>
+                            <li><a href="#services" class="nav-link-1">Products</a></li>
+                            <li><a href="#contact" class="nav-link-1">Contact</a></li>
+                            <li class="mobile-margin-top-1">
+                                <div class="nav-button-wrapper-1"><a
+                                        href="mailto:tanushnick10@gmail.com?subject=Give%20Me%20A%20quote%20for%20%3A-%20"
+                                        class="button-primary w-button">Get Quote</a></div>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="menu-button-4 w-nav-button" style="-webkit-user-select: text;" aria-label="menu"
+                        role="button" tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu"
+                        aria-expanded="false">
+                        <div class="w-icon-nav-menu"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div>
+        </div>
+    </div>
+    <section id="home" class="hero-heading-right-1 wf-section">
+        <div class="container-1 w-container">
+            <div class="hero-wrapper-1"></div>
+        </div>
+        <div class="container-2">
+            <h1 class="heading-1">Custom packaging your customers will love</h1>
+            <div class="text-block-1">Explore, design and order environmentally-conscious packaging.</div><a
+                href="#Products" class="button">Get Started</a>
+        </div>
+        <div id="About" class="container-3">
+            <div class="text-block-2">What we believe in</div>
+            <h1 class="heading-2">Grow your business, establish your brand, and put your customers first.</h1>
+            <div class="div-block-1">
+                <div class="text-block-3">ABOUT</div>
+                <h2 class="heading-3"> Who We Are</h2>
+                <p class="paragraph-1">Started In Jan 2023, Tanush Packaging has gained immense expertise in
+                    manufacturing of Corrugated box, duplex box, Gift Box, Monocartons etc. Our company is
+                    located
+                    in Vashi, Navi Mumbai (Maharashtra). Buy Corrugated Box, Monocartons, Gift Box, Non Woven
+                    Bags
+                    in bulk from us for the best quality products and services. At our production House, these
+                    products are manufactured in compliance with the international standards. We ensure their
+                    Quality in all aspects. Our experts endeavor to identify the Diverse requirements of our
+                    esteemed clients. We provide the entire range as per the same. Tanush Packaging have expert
+                    staff and machinery to match International Standard of quality. full capability from
+                    designing
+                    to final product. We have inhouse machinery of all steps of manufacturing the product. In
+                    our
+                    wide array, we offer superior quality for all type of packaging boxes, and office
+                    stationery.
+                    Explore, design and order environmentally-conscious packaging explore, design and order
+                    environmentally-conscious packaging.</p>
+                <img src="/images/about.jpeg" width="100" height="100" alt="" class="image-19">
+            </div>
+        </div>
+    </section>
+    <section class="features-list-2">
+        <h2 class="heading">Tanush Packaging Differences.</h2>
+        <p class="features-paragraph-2">
+            <strong class="bold-text-2"><br><br>Not your average custom packaging
+                company
+            </strong><br>
+        </p>
+        <div class="container-4">
+            <div class="features-wrapper-two-2">
+                <ul role="list" class="features-right-2">
+                    <li class="features-block-two-2"><img src="/images/img1.jpeg" width="100" height="100" alt=""
+                            class="features-image-2">
+                        <p class="paragraph-3">
+                            <strong class="bold-text-4">From small test orders to high-volume<br>
+                                wholesale orders, we cater to needs, values and specifications.
+                            </strong>
+                        </p>
+                    </li>
+                    <li class="features-block-two-2"><img src="/images/img2.jpeg" width="100" height="100" alt=""
+                            class="features-image-2">
+                        <p class="paragraph-3">
+                            <strong class="bold-text-4">Use our online creator and bring your
+                                custom packaging idea to life in minutes.
+                            </strong>
+                        </p>
+                    </li>
+                    <li class="features-block-two-2"><img src="/images/img3.jpeg" width="100" height="100" alt=""
+                            class="features-image-2">
+                        <p class="paragraph-4">
+                            <strong class="bold-text-5">Get from idea to finished design quickly,
+                                with professionally made and editable templates.
+                            </strong>
+                        </p>
+                    </li>
+                    <li class="features-block-two-2"><img src="/images/img4.jpeg" width="100" height="100" alt=""
+                            class="features-image-2">
+                        <p class="paragraph-4">
+                            <strong class="bold-text-5">Get your custom packaging when you need
+                                it, with delivery in as little as 7 days for some products.
+                            </strong>
+                        </p>
+                    </li>
+                    <li class="features-block-two-2"><img src="/images/img5.jpeg" swidth="100" height="100" alt=""
+                            class="features-image-2">
+                        <p class="paragraph-4">
+                            <strong class="bold-text-5">Take full control of your packaging
+                                supply chain with a single end-to-end supplier.
+                            </strong>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section id="services" class="product">
+        <div class="container-9">
+            <div class="row t">
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="/images/box.jpeg" alt="" width="300px">
+                            <h3 class="card-title">Boxes</h3>
+                            <p class="card-text">A wide range of cardboard postage, product and mailing
+                                boxes suitable for various industries.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="/images/bag.jpeg" alt="" width="300px">
+                            <h3 class="card-title">Bags</h3>
+                            <p class="card-text">Custom printed bags for retail, events and subscriptions.
+                                Made from eco-friendly paper or fabric with multiple sizes and printing options.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="/images/envelope.jpeg" alt="" width="300px">
+                            <h3 class="card-title">Mailers & Envelopes</h3>
+                            <p class="card-text">Send your documents, magazines and
+                                other small items in style with a custom envelope.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-100"></div>
+            </div>
+            <div class="row u">
+                <div class="col y">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="/images/accesory.jpeg" alt="" width="300px">
+                            <h3 class="card-title">Accesories</h3>
+                            <p class="card-text">Complete the unboxing experience with
+                                customizable packaging accessories. Add personalized cards, stickers and fillers
+                                for that extra touch.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="/images/food.jpeg" alt="" width="300px">
+                            <h3 class="card-title">Food Packaging</h3>
+                            <p class="card-text">We believe that food deserves the best
+                                packaging. Our mission is to provide top-notch food packaging solutions that not
+                                only keep food fresh and safe, but also stand out on shelves.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <div id="contact" class="container-5">
+        <div class="w-form">
+            <form id="form-Contact-No" name="form-Contact-No" data-name="Contact No" method="get" class="form"
+                aria-label="Contact No">
+                <label for="name">Name</label>
+                <input type="text" class="w-input" maxlength="256" name="name" data-name="Name" placeholder="George"
+                    id="name">
+                <label for="email">Email Address</label>
+                <input type="email" class="w-input" maxlength="256" name="email" data-name="Email"
+                    placeholder="email@mail.com" id="email">
+                <label for="Contact-No-3">Contact No.</label>
+                <input type="tel" class="w-input" maxlength="256" name="Contact-No" data-name="Contact No."
+                    placeholder="+91 7788996655" id="Contact-No">
+                <label for="product">Product Enquired For</label>
+                <input type="text" class="w-input" maxlength="256" name="product" data-name="product"
+                    placeholder="Boxes" id="product">
+                <input type="submit" value="Submit" data-wait="Please wait..." class="w-button">
+            </form>
+            <div class="w-form-done" aria-label="Contact No success">
+                <div>Thank you! Your submission has been received!</div>
+            </div>
+            <div class="w-form-fail" aria-label="Contact No failure">
+                <div>Oops! Something went wrong while submitting the form.</div>
+            </div>
+        </div>
+    </div>
+    <section id="footer" class="footer-light-2">
+        <div class="container-11">
+            <div class="footer-wrapper-two-2"><a href="#" class="footer-brand-3"><img src="/images/logo.jpeg"
+                        width="365" sizes="(max-width: 479px) 77vw, 365px" alt=""></a>
+                <div class="footer-block-two-2">
+                    <div class="footer-title-2">Company</div><a href="#About" class="footer-link-two-2">About</a><a
+                        href="#Products" class="footer-link-two-2">Products</a>
+                </div>
+                <div class="footer-block-two-2">
+                    <div class="footer-title-2">Quick Link</div><a href="#home" aria-current="page"
+                        class="footer-link-two-2">Home</a>
+                    <a href="#contact" class="footer-link-two-2">Contacts</a>
+                </div>
+                <div class="footer-form-2 ">
+                    <form id="wf-form-Footer-Form" name="wf-form-Footer-Form" data-name="Footer Form" method="get"
+                        class="footer-form-container-2" aria-label="Footer Form">
+                        <div class="footer-title-2">Subscribe</div>
+                        <div class="footer-form-block-2"><input type="email" class="footer-form-field-2" maxlength="256"
+                                name="Footer-Email" data-name="Footer Email" aria-label="Get product updates"
+                                placeholder="Get product updates" id="Footer-Email"><input type="submit" value=""
+                                data-wait="Please wait..." class="footer-form-submit-2"></div>
+                        <div class="div-block-10"><a
+                                href="https://www.google.com/maps/place/Mahavir+Sadhana+CHS/@19.061398,73.0011783,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c1503e9ed019:0x89363aa25c2bf1b5!8m2!3d19.061398!4d73.003367!16s%2Fg%2F1tfhy1h1"
+                                class="w-inline-block"><img src="/images/location.jpeg" width="50" height="50"
+                                    sizes="50px" alt=""></a><a
+                                href="mailto:tanushnick10@gmail.com?subject=Thank%20You%20For%20Contacting"
+                                class="w-inline-block"><img src="/images/mail.jpeg" width="50" height="50" sizes="50px"
+                                    alt="" class="image-44"></a><a href="tel:+918355848660" class="w-inline-block"><img
+                                    src="/images/call.jpeg" width="50" height="50" sizes="50px" alt=""
+                                    class="image-45"></a>
+                        </div>
+                    </form>
+                    <div class="w-form-done" aria-label="Footer Form success">
+                        <div>Thank you! Your submission has been received!</div>
+                    </div>
+                    <div class="w-form-fail" aria-label="Footer Form failure">
+                        <div>Oops! Something went wrong while submitting the form.</div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-divider-two-2"></div>
+            <div class="footer-bottom-2">
+                <div class="footer-copyright-2">© 2023 Tanush Packaging. All rights reserved</div>
+                <div class="footer-social-block-two-2"><a href="#" class="footer-social-link-3"><img
+                            src="https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124ac76f12aaec_product%20icon-2.svg"
+                            alt="" class="footer-link"></a><a href="#" class="footer-social-link-3"><img
+                            src="https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a4a9512aae0_product%20icon-1.svg"
+                            alt=""></a><a href="#" class="footer-social-link-3"><img
+                            src="https://uploads-ssl.webflow.com/62434fa732124a0fb112aab4/62434fa732124a853712aad7_product%20icon.svg"
+                            alt=""></a></div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
